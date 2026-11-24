@@ -1,0 +1,14 @@
+
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://你的用户名.github.io/sitemap.xml
